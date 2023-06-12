@@ -43,8 +43,8 @@
 ## Github statistics
 <details>
   <div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rabberpoli&theme=discord_old_blurple"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rabberpoli&theme=discord_old_blurple"/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rabberpoli&theme=vue"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rabberpoli&theme=vue"/>
   </div>
 </details>
 
